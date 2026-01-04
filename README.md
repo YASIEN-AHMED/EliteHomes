@@ -273,7 +273,7 @@ Currently, there are no known issues. If you encounter any problems, please open
 If you have any questions or need help, please:
 
 - **Open an issue** on GitHub for bug reports or feature requests
-- **Contact the developer** via LinkedIn
+- **Contact the developer** via email: [yasienahmed607@gmail.com](mailto:yasienahmed607@gmail.com)
 - **Check the FAQ section** on the website for common questions
 
 ## 👨‍💻 Author
@@ -286,9 +286,10 @@ If you have any questions or need help, please:
 🏢 **General Authority for Investment**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasien-ahmed-b8ab41325)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasienahmed607@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-[🔗 LinkedIn Profile](https://www.linkedin.com/in/yasien-ahmed-b8ab41325)
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/yasien-ahmed-b8ab41325) | [📧 Email](mailto:yasienahmed607@gmail.com)
 
 </div>
 
@@ -304,3 +305,4 @@ If you have any questions or need help, please:
 [![GitHub forks](https://img.shields.io/github/forks/username/repo.svg?style=social&label=Fork)](https://github.com)
 
 </div>
+
